@@ -1,0 +1,66 @@
+
+<http://www.example.org/Person/1> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Nicolas" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "DUPONT-AIGNAN" .
+
+<http://www.example.org/Person/2> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Marine" ;
+	<http://xmlns.com/foaf/spec#gender> "Mme" ;
+	<http://xmlns.com/foaf/spec#familyName> "LE PEN" .
+
+<http://www.example.org/Person/3> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Emmanuel" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "MACRON" .
+
+<http://www.example.org/Person/4> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Benoît" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "HAMON" .
+
+<http://www.example.org/Person/5> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Nathalie" ;
+	<http://xmlns.com/foaf/spec#gender> "Mme" ;
+	<http://xmlns.com/foaf/spec#familyName> "ARTHAUD" .
+
+<http://www.example.org/Person/6> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Philippe" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "POUTOU" .
+
+<http://www.example.org/Person/7> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jacques" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "CHEMINADE" .
+
+<http://www.example.org/Person/8> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jean" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "LASSALLE" .
+
+<http://www.example.org/Person/9> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jean-Luc" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "MÉLENCHON" .
+
+<http://www.example.org/Person/10> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "François" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "ASSELINEAU" .
+
+<http://www.example.org/Election/L'Abergement-Cl%C3%A9menciat> a <http://http://dbpedia.org/ontology/Election#Election> ;
+	<http://data.ign.fr/def/geofla#region> <http://www.example.org/GeoRegion/Auvergne%20et%20Rh%C3%B4ne-Alpes> ;
+	<http://data.ign.fr/def/geofla#dpt> <http://www.example.org/GeoDepartement/Ain> .
+
+<http://www.example.org/GeoRegion/Auvergne%20et%20Rh%C3%B4ne-Alpes> a <http://data.ign.fr/def/geofla#GeoRegion> ;
+	<http://data.ign.fr/def/geofla#Departement> "Ain" ;
+	<http://data.ign.fr/def/geofla#Commune> "L'Abergement-Clémenciat" ;
+	<http://www.example.org/GeoRegion/code_insee> "01001" .
+
+<http://www.example.org/GeoDepartement/Ain> a <http://data.ign.fr/def/geofla#GeoDepartement> ;
+	<http://data.ign.fr/def/geofla#Commune> "L'Abergement-Clémenciat" ;
+	<http://www.example.org/GeoDepartement/code_insee> "01001" .
+
+<http://www.example.org/GeoCommune/L'Abergement-Cl%C3%A9menciat> a <http://data.ign.fr/def/geofla#GeoCommune> ;
+	<http://www.example.org/GeoDepartement/code_insee> "01001" .

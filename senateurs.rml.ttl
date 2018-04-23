@@ -1,0 +1,139 @@
+@prefix rr: <http://www.w3.org/ns/r2rml#>.
+@prefix rml: <http://semweb.mmlab.be/ns/rml#> .
+@prefix ql: <http://semweb.mmlab.be/ns/ql#>.
+@prefix mail: <http://example.com/mail#>.
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#>.
+@prefix ex: <http://www.example.com/>.
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#>.
+@prefix transit: <http://vocab.org/transit/terms/> .
+@prefix wgs84_pos: <http://www.w3.org/2003/01/geo/wgs84_pos#>.
+@prefix schema: <http://schema.org/>.
+@prefix gn: <http://www.geonames.org/ontology#>.
+@prefix geosp: <http://www.telegraphis.net/ontology/geography/geography#> .
+@prefix foaf: <http://xmlns.com/foaf/spec#>.
+@prefix dbpedia: <http://dbpedia.org/ontology/#>.
+@prefix archiveshub: <http://data.archiveshub.ac.uk/def/#>.
+@prefix region: <http://data.ign.fr/def/geofla#>.
+
+<#Senateur>
+rml:logicalSource [
+  rml:source "senateurs.json";
+  rml:referenceFormulation ql:JSONPath;
+  rml:iterator "$.[*].fields"
+];
+
+rr:subjectMap [
+  rr:template "www.example.org/Senateur/{matricule}";
+  rr:class dbpedia:Senator
+];
+
+rr:predicateObjectMap [
+  rr:predicate dbpedia:party;
+  rr:objectMap [
+    rml:reference "$.groupe_politique"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate "www.example.org/Senateur/pcs_insee";
+  rr:objectMap [
+    rml:reference "$.pcs_insee"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate region:Departement;
+  rr:objectMap [
+    rml:reference "$.circonscription"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate "www.example.org/Senateur/commission_permanente";
+  rr:objectMap [
+    rml:reference "$.commission_permanente"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate schema:email ;
+  rr:objectMap [
+    rml:reference "$.courrier_electronique";
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate dbpedia:profession;
+  rr:objectMap [
+    rml:reference "$.description_de_la_profession"
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate "www.example.org/Senateur/categorie_professionnelle" ;
+  rr:objectMap [
+    rml:reference "$.categorie_professionnelle";
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate "www.example.org/Senateur/fonction_au_bureau_du_senat" ;
+  rr:objectMap [
+    rml:reference "$.fonction_au_bureau_du_senat";
+  ]
+];
+
+rr:predicateObjectMap [
+  rr:predicate ex:person;
+  rr:objectMap [
+    rr:parentTriplesMap <#Person>
+  ]
+].
+
+<#Person>
+  rml:logicalSource [
+    rml:source "senateurs.json";
+    rml:referenceFormulation ql:JSONPath;
+    rml:iterator "$.[*].fields"
+  ];
+
+  rr:subjectMap [
+    rr:template "www.example.org/Person/{matricule}";
+    rr:class foaf:Person
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate foaf:familyName;
+    rr:objectMap [
+      rml:reference "$.nom_usuel"
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate foaf:name;
+    rr:objectMap [
+      rml:reference "$.prenom_usuel"
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate foaf:gender;
+    rr:objectMap [
+      rml:reference "$.qualite"
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate archiveshub:dateBirth;
+    rr:objectMap [
+      rml:reference "$.date_naissance"
+    ]
+  ];
+
+  rr:predicateObjectMap [
+    rr:predicate archiveshub:dateDeath;
+    rr:objectMap [
+      rml:reference "$.date_de_deces"
+    ]
+  ].

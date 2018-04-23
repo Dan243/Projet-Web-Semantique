@@ -1,0 +1,170 @@
+
+  [
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "c15b6817d567815e7f379b26990fa3b84dac8baf",
+      "fields": {
+        "groupe": "UDI",
+        "nom": "REYNIER",
+        "descriptif": "Fonctionnement",
+        "prenom": "Franck",
+        "montant": 1000,
+        "adresse": "Mairie 26740 MARSANNE",
+        "programme_budgetaire": "131-01",
+        "depute_groupe": "REYNIER Franck - UDI",
+        "beneficiaire": "Zarcade action musique Marsanne",
+        "depute": "REYNIER Franck"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "0ebea0182240c8d84b51c06befc30adb0f583292",
+      "fields": {
+        "groupe": "UDI",
+        "nom": "RICHARD",
+        "descriptif": "Fonctionnement",
+        "prenom": "Arnaud",
+        "montant": 1000,
+        "adresse": "VERNEUIL-SUR-SEINE 78480",
+        "programme_budgetaire": "204-17",
+        "depute_groupe": "RICHARD Arnaud - UDI",
+        "beneficiaire": "Association des Donneurs de Sang verneuil-Vernouillet",
+        "depute": "RICHARD Arnaud"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "ef2c3ad94f5d77e53a8b7a5aee0916295ec11c08",
+      "fields": {
+        "groupe": "UMP",
+        "nom": "RIESTER",
+        "descriptif": "Fonctionnement",
+        "prenom": "Franck",
+        "montant": 8000,
+        "programme_budgetaire": "219-01",
+        "depute_groupe": "RIESTER Franck - UMP",
+        "beneficiaire": "Club Coulommiers Brie Basket",
+        "depute": "RIESTER Franck"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "3aecdd541a3f85574c2f5601bf4c138e444708a7",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "RIHAN CYPEL",
+        "descriptif": "Fonctionnement",
+        "prenom": "Eduardo",
+        "montant": 3000,
+        "programme_budgetaire": "219-01",
+        "depute_groupe": "RIHAN CYPEL Eduardo - SRC",
+        "beneficiaire": "Torcy Handball Marne-la-Vallée",
+        "depute": "RIHAN CYPEL Eduardo"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "16d9c05678323404dc3a0e1ee621bf95b5b2727e",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "RIHAN CYPEL",
+        "descriptif": "Fonctionnement",
+        "prenom": "Eduardo",
+        "montant": 5000,
+        "programme_budgetaire": "163-01",
+        "depute_groupe": "RIHAN CYPEL Eduardo - SRC",
+        "beneficiaire": "Ginko Club",
+        "depute": "RIHAN CYPEL Eduardo"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "21e228cb0a36c6fe07cdce73baf2fb3a020a548e",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "ROIG",
+        "descriptif": "UNESCO, agropastoralisme",
+        "prenom": "Frédéric",
+        "montant": 4000,
+        "adresse": "34 route de St Pierre 34520 Le Caylar",
+        "programme_budgetaire": "113-07",
+        "depute_groupe": "ROIG Frédéric - SRC",
+        "beneficiaire": "CPIE des Causses Méridionaux",
+        "depute": "ROIG Frédéric"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "51dd17fc065d6ba90818b30b0bb03ec592094a55",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "ROIG",
+        "descriptif": "Patrimoine, Réhabilitation et mise en valeur du Moulin à vent de Juffet",
+        "prenom": "Frédéric",
+        "montant": 2000,
+        "adresse": "Maison des sports, rue carriérasse 34560 Montbazin",
+        "programme_budgetaire": "175-01",
+        "depute_groupe": "ROIG Frédéric - SRC",
+        "beneficiaire": "Marc Rouzier,Forum de Montbazin",
+        "depute": "ROIG Frédéric"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "204ab66d08cb823ea16a4b6dc0bb8d00f0921b69",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "ROMAGNAN",
+        "descriptif": "Enfance Renouvellement d'équipement informatique",
+        "prenom": "Barbara",
+        "montant": 3000,
+        "adresse": "1 avenue Ducat - 25000 Besançon",
+        "programme_budgetaire": "163-01",
+        "depute_groupe": "ROMAGNAN Barbara - SRC",
+        "beneficiaire": "Comité de quartier de Rosemont-Saint-Ferjeux",
+        "depute": "ROMAGNAN Barbara"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "ec53f8e1d86e260acf5053603fa8cc5249222e00",
+      "fields": {
+        "groupe": "SRC",
+        "nom": "ROMAGNAN",
+        "descriptif": "aménagement de jardins familiaux dans le secteur de Trépillot",
+        "prenom": "Barbara",
+        "montant": 9000,
+        "adresse": "2 rue Mégevand 25034 Besançon cedex",
+        "programme_budgetaire": "122-01",
+        "depute_groupe": "ROMAGNAN Barbara - SRC",
+        "beneficiaire": "Ville de Besançon",
+        "depute": "ROMAGNAN Barbara"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    },
+    {
+      "datasetid": "repartition-de-la-reserve-parlementaire-en-2014@public",
+      "recordid": "849c9c6afa54da40abc7cb3f5947c96d610b11fd",
+      "fields": {
+        "groupe": "Ecolo",
+        "nom": "ROUMEGAS",
+        "descriptif": "Invitation d'une délégation du Conseil municipal de Bethléem",
+        "prenom": "Jean-Louis",
+        "montant": 5000,
+        "adresse": "Chez Robert KISSOUS 175 Impasse de la Croix d'argent 34070 Montpellier",
+        "programme_budgetaire": "209-02",
+        "depute_groupe": "ROUMEGAS Jean-Louis - Ecolo",
+        "beneficiaire": "AFPS 34",
+        "depute": "ROUMEGAS Jean-Louis"
+      },
+      "record_timestamp": "2016-09-20T22:29:48+00:00"
+    }
+  ]

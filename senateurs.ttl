@@ -1,0 +1,158 @@
+
+<http://www.example.org/Senateur/59214D> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Marne" ;
+	<http://www.example.com/person> <http://www.example.org/Person/59214D> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission de l'économie" ;
+	<http://www.example.org/Senateur/fonction_au_bureau_du_senat> "Secrétaire du Sénat" ;
+	<http://www.example.org/Senateur/pcs_insee> "Chirurgiens-dentistes (libéraux ou salariés)" ;
+	<http://dbpedia.org/ontology/#profession> "Chirurgien dentiste" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Professions médicales (Dentistes)" ;
+	<http://dbpedia.org/ontology/#party> "RPR" .
+
+<http://www.example.org/Senateur/01031L> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Puy-de-Dôme" ;
+	<http://www.example.com/person> <http://www.example.org/Person/01031L> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des finances" ;
+	<http://www.example.org/Senateur/pcs_insee> "Autres personnes sans activité professionnelle" ;
+	<http://dbpedia.org/ontology/#profession> "Directrice d'établissement médico-social public" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Fonctionnaires (Hauts Fonctionnaires)" ;
+	<http://dbpedia.org/ontology/#party> "Socialiste et républicain" ;
+	<http://schema.org/email> "m.andre@senat.fr" .
+
+<http://www.example.org/Senateur/58614M> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Hauts-de-Seine" ;
+	<http://www.example.com/person> <http://www.example.org/Person/58614M> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des affaires sociales" ;
+	<http://www.example.org/Senateur/pcs_insee> "Ouvriers" ;
+	<http://dbpedia.org/ontology/#profession> "Ajusteur" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Salariés (Ouvriers)" ;
+	<http://dbpedia.org/ontology/#party> "C" .
+
+<http://www.example.org/Senateur/000490> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Territoire de Belfort" ;
+	<http://www.example.com/person> <http://www.example.org/Person/000490> ;
+	<http://www.example.org/Senateur/commission_permanente> "Aucune (Président du Sénat)" ;
+	<http://www.example.org/Senateur/pcs_insee> "Personnels de direction de la fonction publique" ;
+	<http://dbpedia.org/ontology/#profession> "Administrateur Civil" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Fonctionnaires (Hauts Fonctionnaires)" ;
+	<http://dbpedia.org/ontology/#party> "U.D.R." .
+
+<http://www.example.org/Senateur/95008D> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Savoie" ;
+	<http://www.example.com/person> <http://www.example.org/Person/95008D> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des affaires étrangères" ;
+	<http://www.example.org/Senateur/pcs_insee> "Autres personnes sans activité professionnelle" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Sans profession déclarée" ;
+	<http://dbpedia.org/ontology/#party> "RPR" ;
+	<http://schema.org/email> "Non public" .
+
+<http://www.example.org/Senateur/000032> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Gironde" ;
+	<http://www.example.com/person> <http://www.example.org/Person/000032> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des lois" ;
+	<http://www.example.org/Senateur/pcs_insee> "Agriculteurs exploitants" ;
+	<http://dbpedia.org/ontology/#profession> "Viticulteur" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Professions agricoles" ;
+	<http://dbpedia.org/ontology/#party> "R.I.A.S." .
+
+<http://www.example.org/Senateur/11036J> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Nord" ;
+	<http://www.example.com/person> <http://www.example.org/Person/11036J> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des affaires économiques" ;
+	<http://www.example.org/Senateur/pcs_insee> "Autres personnes sans activité professionnelle" ;
+	<http://dbpedia.org/ontology/#profession> "Assistante parlementaire" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Salariés (Cadres divers)" ;
+	<http://dbpedia.org/ontology/#party> "Socialiste et républicain" ;
+	<http://schema.org/email> "d.bataille@senat.fr" .
+
+<http://www.example.org/Senateur/11030C> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Maine-et-Loire" ;
+	<http://www.example.com/person> <http://www.example.org/Person/11030C> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des lois" ;
+	<http://www.example.org/Senateur/pcs_insee> "Autres personnes sans activité professionnelle" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Sans profession déclarée" ;
+	<http://dbpedia.org/ontology/#party> "Les Républicains" ;
+	<http://schema.org/email> "c.bechu@senat.fr" .
+
+<http://www.example.org/Senateur/14065Q> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Bas-Rhin" ;
+	<http://www.example.com/person> <http://www.example.org/Person/14065Q> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des lois" ;
+	<http://www.example.org/Senateur/pcs_insee> "Avocats" ;
+	<http://dbpedia.org/ontology/#profession> "Avocat" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Professions judiciaires et libérales (Avocats)" ;
+	<http://dbpedia.org/ontology/#party> "Socialiste et républicain" ;
+	<http://schema.org/email> "j.bigot@senat.fr" .
+
+<http://www.example.org/Senateur/13003V> a <http://dbpedia.org/ontology/#Senator> ;
+	<http://data.ign.fr/def/geofla#Departement> "Haut-Rhin" ;
+	<http://www.example.com/person> <http://www.example.org/Person/13003V> ;
+	<http://www.example.org/Senateur/commission_permanente> "commission des affaires sociales" ;
+	<http://www.example.org/Senateur/pcs_insee> "Autres personnes sans activité professionnelle" ;
+	<http://dbpedia.org/ontology/#profession> "Secrétaire médicale" ;
+	<http://www.example.org/Senateur/categorie_professionnelle> "Salariés (Employés)" ;
+	<http://dbpedia.org/ontology/#party> "Les Républicains" ;
+	<http://schema.org/email> "f.boog@senat.fr" .
+
+<http://www.example.org/Person/59214D> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jean" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Amelin" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1927-05-28" ;
+	<http://data.archiveshub.ac.uk/def/#dateDeath> "2012-03-08" .
+
+<http://www.example.org/Person/01031L> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Michèle" ;
+	<http://xmlns.com/foaf/spec#gender> "Mme" ;
+	<http://xmlns.com/foaf/spec#familyName> "André" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1947-02-06" .
+
+<http://www.example.org/Person/58614M> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "André" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Aubry" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1931-08-01" .
+
+<http://www.example.org/Person/000490> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jean" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Bailly" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1922-05-31" ;
+	<http://data.archiveshub.ac.uk/def/#dateDeath> "1984-04-21" .
+
+<http://www.example.org/Person/95008D> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Michel" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Barnier" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1951-01-09" .
+
+<http://www.example.org/Person/000032> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Armand" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Bastit-St Martin" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1900-11-14" ;
+	<http://data.archiveshub.ac.uk/def/#dateDeath> "1984-03-13" .
+
+<http://www.example.org/Person/11036J> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Delphine" ;
+	<http://xmlns.com/foaf/spec#gender> "Mme" ;
+	<http://xmlns.com/foaf/spec#familyName> "Bataille" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1969-09-16" .
+
+<http://www.example.org/Person/11030C> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Christophe" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Béchu" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1974-06-11" .
+
+<http://www.example.org/Person/14065Q> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jacques" ;
+	<http://xmlns.com/foaf/spec#gender> "M." ;
+	<http://xmlns.com/foaf/spec#familyName> "Bigot" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1952-07-31" .
+
+<http://www.example.org/Person/13003V> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Françoise" ;
+	<http://xmlns.com/foaf/spec#gender> "Mme" ;
+	<http://xmlns.com/foaf/spec#familyName> "Boog" ;
+	<http://data.archiveshub.ac.uk/def/#dateBirth> "1960-08-02" .

@@ -1,0 +1,61 @@
+
+<http://www.example.org/Deputy/REYNIER%20Franck> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Fonctionnement" ;
+	<http://www.example.com/person> <http://www.example.org/Person/REYNIER%20Franck%20-%20UDI> .
+
+<http://www.example.org/Deputy/RICHARD%20Arnaud> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Fonctionnement" ;
+	<http://www.example.com/person> <http://www.example.org/Person/RICHARD%20Arnaud%20-%20UDI> .
+
+<http://www.example.org/Deputy/RIESTER%20Franck> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Fonctionnement" ;
+	<http://www.example.com/person> <http://www.example.org/Person/RIESTER%20Franck%20-%20UMP> .
+
+<http://www.example.org/Deputy/RIHAN%20CYPEL%20Eduardo> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Fonctionnement" ;
+	<http://www.example.com/person> <http://www.example.org/Person/RIHAN%20CYPEL%20Eduardo%20-%20SRC> .
+
+<http://www.example.org/Deputy/ROIG%20Fr%C3%A9d%C3%A9ric> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "UNESCO, agropastoralisme" , "Patrimoine, Réhabilitation et mise en valeur du Moulin à vent de Juffet" ;
+	<http://www.example.com/person> <http://www.example.org/Person/ROIG%20Fr%C3%A9d%C3%A9ric%20-%20SRC> .
+
+<http://www.example.org/Deputy/ROMAGNAN%20Barbara> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Enfance Renouvellement d'équipement informatique" , "aménagement de jardins familiaux dans le secteur de Trépillot" ;
+	<http://www.example.com/person> <http://www.example.org/Person/ROMAGNAN%20Barbara%20-%20SRC> .
+
+<http://www.example.org/Deputy/ROUMEGAS%20Jean-Louis> a <http://dbpedia.org/ontology/deputy#Deputy> ;
+	<http://dati.camera.it/ocd#ruolo> "Invitation d'une délégation du Conseil municipal de Bethléem" ;
+	<http://www.example.com/person> <http://www.example.org/Person/ROUMEGAS%20Jean-Louis%20-%20Ecolo> .
+
+<http://www.example.org/Person/REYNIER%20Franck%20-%20UDI> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Franck" ;
+	<http://xmlns.com/foaf/spec#familyName> "REYNIER" .
+
+<http://www.example.org/Person/RICHARD%20Arnaud%20-%20UDI> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Arnaud" ;
+	<http://xmlns.com/foaf/spec#familyName> "RICHARD" .
+
+<http://www.example.org/Person/RIESTER%20Franck%20-%20UMP> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Franck" ;
+	<http://xmlns.com/foaf/spec#familyName> "RIESTER" .
+
+<http://www.example.org/Person/RIHAN%20CYPEL%20Eduardo%20-%20SRC> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Eduardo" ;
+	<http://xmlns.com/foaf/spec#familyName> "RIHAN CYPEL" .
+
+<http://www.example.org/Person/ROIG%20Fr%C3%A9d%C3%A9ric%20-%20SRC> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Frédéric" ;
+	<http://xmlns.com/foaf/spec#familyName> "ROIG" .
+
+<http://www.example.org/Person/ROMAGNAN%20Barbara%20-%20SRC> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Barbara" ;
+	<http://xmlns.com/foaf/spec#familyName> "ROMAGNAN" .
+
+<http://www.example.org/Person/ROUMEGAS%20Jean-Louis%20-%20Ecolo> a <http://xmlns.com/foaf/spec#Person> ;
+	<http://xmlns.com/foaf/spec#name> "Jean-Louis" ;
+	<http://xmlns.com/foaf/spec#familyName> "ROUMEGAS" .
+
+<http://www.example.org/ReserveParlementaire/Zarcade%20action%20musique%20Marsanne> a <http://dbpedia.org/ontology/partyReserveParlementaire> ;
+	<http://www.example.org/Senateur/programme_budgetaire> "131-01" ;
+	<http://schema.org/amount> "1000" ;
+	<http://dbpedia.org/ontology/#address> "Mairie 26740 MARSANNE" .

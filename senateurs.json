@@ -1,0 +1,200 @@
+[
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "54fed35a523218db2bd448d041199f7bdd06fbf0",
+      "fields": {
+        "prenom_usuel": "Jean",
+        "etat": "ANCIEN",
+        "nom_usuel": "Amelin",
+        "date_de_deces": "2012-03-08",
+        "pcs_insee": "Chirurgiens-dentistes (libéraux ou salariés)",
+        "description_de_la_profession": "Chirurgien dentiste",
+        "circonscription": "Marne",
+        "groupe_politique": "RPR",
+        "categorie_professionnelle": "Professions médicales (Dentistes)",
+        "commission_permanente": "commission de l'économie",
+        "fonction_au_bureau_du_senat": "Secrétaire du Sénat",
+        "date_naissance": "1927-05-28",
+        "matricule": "59214D",
+        "qualite": "M."
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "ee561b6dec73d2b949f4a97c8c282559824fec09",
+      "fields": {
+        "prenom_usuel": "Michèle",
+        "etat": "ACTIF",
+        "nom_usuel": "André",
+        "pcs_insee": "Autres personnes sans activité professionnelle",
+        "description_de_la_profession": "Directrice d'établissement médico-social public",
+        "circonscription": "Puy-de-Dôme",
+        "groupe_politique": "Socialiste et républicain",
+        "categorie_professionnelle": "Fonctionnaires (Hauts Fonctionnaires)",
+        "commission_permanente": "commission des finances",
+        "date_naissance": "1947-02-06",
+        "matricule": "01031L",
+        "qualite": "Mme",
+        "courrier_electronique": "m.andre@senat.fr"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "74ee63e005976dc2c6a22e20841fb7031c7a3746",
+      "fields": {
+        "prenom_usuel": "André",
+        "etat": "ANCIEN",
+        "nom_usuel": "Aubry",
+        "pcs_insee": "Ouvriers",
+        "description_de_la_profession": "Ajusteur",
+        "circonscription": "Hauts-de-Seine",
+        "groupe_politique": "C",
+        "categorie_professionnelle": "Salariés (Ouvriers)",
+        "commission_permanente": "commission des affaires sociales",
+        "date_naissance": "1931-08-01",
+        "matricule": "58614M",
+        "qualite": "M."
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "850a05fc1d6e90ffa64723d83e3269f6f87a7671",
+      "fields": {
+        "prenom_usuel": "Jean",
+        "etat": "ANCIEN",
+        "nom_usuel": "Bailly",
+        "date_de_deces": "1984-04-21",
+        "pcs_insee": "Personnels de direction de la fonction publique",
+        "description_de_la_profession": "Administrateur Civil",
+        "circonscription": "Territoire de Belfort",
+        "groupe_politique": "U.D.R.",
+        "categorie_professionnelle": "Fonctionnaires (Hauts Fonctionnaires)",
+        "commission_permanente": "Aucune (Président du Sénat)",
+        "date_naissance": "1922-05-31",
+        "matricule": "000490",
+        "qualite": "M."
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "03cab85890bd84d0a5c3993554d994b0ce32bc1d",
+      "fields": {
+        "prenom_usuel": "Michel",
+        "etat": "ANCIEN",
+        "nom_usuel": "Barnier",
+        "pcs_insee": "Autres personnes sans activité professionnelle",
+        "circonscription": "Savoie",
+        "groupe_politique": "RPR",
+        "categorie_professionnelle": "Sans profession déclarée",
+        "commission_permanente": "commission des affaires étrangères",
+        "date_naissance": "1951-01-09",
+        "matricule": "95008D",
+        "qualite": "M.",
+        "courrier_electronique": "Non public"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "3570b9091d52a91952e6241ac69fdae4916c2dab",
+      "fields": {
+        "prenom_usuel": "Armand",
+        "etat": "ANCIEN",
+        "nom_usuel": "Bastit-St Martin",
+        "date_de_deces": "1984-03-13",
+        "pcs_insee": "Agriculteurs exploitants",
+        "description_de_la_profession": "Viticulteur",
+        "circonscription": "Gironde",
+        "groupe_politique": "R.I.A.S.",
+        "categorie_professionnelle": "Professions agricoles",
+        "commission_permanente": "commission des lois",
+        "date_naissance": "1900-11-14",
+        "matricule": "000032",
+        "qualite": "M."
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "e227557a4466636bc37b9d0bd4816c75d480a1f8",
+      "fields": {
+        "prenom_usuel": "Delphine",
+        "etat": "ACTIF",
+        "nom_usuel": "Bataille",
+        "pcs_insee": "Autres personnes sans activité professionnelle",
+        "description_de_la_profession": "Assistante parlementaire",
+        "circonscription": "Nord",
+        "groupe_politique": "Socialiste et républicain",
+        "categorie_professionnelle": "Salariés (Cadres divers)",
+        "commission_permanente": "commission des affaires économiques",
+        "date_naissance": "1969-09-16",
+        "matricule": "11036J",
+        "qualite": "Mme",
+        "courrier_electronique": "d.bataille@senat.fr"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "79dc9aa86a22a57d31260c0bf6a762cdd834f30a",
+      "fields": {
+        "prenom_usuel": "Christophe",
+        "etat": "ACTIF",
+        "nom_usuel": "Béchu",
+        "pcs_insee": "Autres personnes sans activité professionnelle",
+        "circonscription": "Maine-et-Loire",
+        "groupe_politique": "Les Républicains",
+        "categorie_professionnelle": "Sans profession déclarée",
+        "commission_permanente": "commission des lois",
+        "date_naissance": "1974-06-11",
+        "matricule": "11030C",
+        "qualite": "M.",
+        "courrier_electronique": "c.bechu@senat.fr"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "0e1b55da68b9b79a069a60b02c40c4086a519015",
+      "fields": {
+        "prenom_usuel": "Jacques",
+        "etat": "ACTIF",
+        "nom_usuel": "Bigot",
+        "pcs_insee": "Avocats",
+        "description_de_la_profession": "Avocat",
+        "circonscription": "Bas-Rhin",
+        "groupe_politique": "Socialiste et républicain",
+        "categorie_professionnelle": "Professions judiciaires et libérales (Avocats)",
+        "commission_permanente": "commission des lois",
+        "date_naissance": "1952-07-31",
+        "matricule": "14065Q",
+        "qualite": "M.",
+        "courrier_electronique": "j.bigot@senat.fr"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    },
+    {
+      "datasetid": "odsen_general@public",
+      "recordid": "dced20a6b20d521d2f9d48dc0967fb9b46f38e5d",
+      "fields": {
+        "prenom_usuel": "Françoise",
+        "etat": "ANCIEN",
+        "nom_usuel": "Boog",
+        "pcs_insee": "Autres personnes sans activité professionnelle",
+        "description_de_la_profession": "Secrétaire médicale",
+        "circonscription": "Haut-Rhin",
+        "groupe_politique": "Les Républicains",
+        "categorie_professionnelle": "Salariés (Employés)",
+        "commission_permanente": "commission des affaires sociales",
+        "date_naissance": "1960-08-02",
+        "matricule": "13003V",
+        "qualite": "Mme",
+        "courrier_electronique": "f.boog@senat.fr"
+      },
+      "record_timestamp": "2017-03-23T08:07:30+00:00"
+    }
+]
